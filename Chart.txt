@@ -1,0 +1,17 @@
+							
+						Chart of contracts 
+					~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+							Weapons
+							   ^
+							Investigate
+							^    ^     ^
+						Destroy    Fortify  Surveillance
+						^            ^           ^ 
+					Destroy Drop      Logistics      Decoy- req Drone
+					   ^ 		      ^              ^
+					Drone		  **Defend**	      
+					^  		      
+				      Sortie   
